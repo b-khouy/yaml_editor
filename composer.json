@@ -1,0 +1,12 @@
+{
+  "name": "b-khouy/yaml_editor",
+  "description": "Adds an editor for YAML configuration textareas",
+  "type": "drupal-module",
+  "homepage": "https://www.drupal.org/project/yaml_editor",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/yaml_editor",
+    "source": "https://cgit.drupalcode.org/yaml_editor"
+  },
+  "minimum-stability": "dev",
+  "require": {}
+}
